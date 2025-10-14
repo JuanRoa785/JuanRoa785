@@ -43,5 +43,7 @@
 
 ---
 
-<p align="center">"Great things come from hard work and perseverance. No Excuses" - Kobe Bryant</p>
+<p align="center">
+    <b>"Great things come from hard work and perseverance. No Excuses" - Kobe Bryant</b>
+</p>
 
