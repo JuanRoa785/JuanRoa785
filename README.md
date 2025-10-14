@@ -1,15 +1,27 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/gpintoruiz/gpintoruiz/main/varian_wrynn.gif" alt="Varian Wrynn"/>
+    <img src="https://raw.githubusercontent.com/JuanRoa785/JuanRoa785/main/mj-shrug.gif" alt="MJ Shrug"/>
 </p>
 
 <h1 align="center">Hi, I'm Juan Diego Roa! 👋</h1>
 
 <p align="center">
-🌟 I'm a Systems Engineering student at Universidad Industrial de Santander, with a strong focus on software development.
-🏀 My hobbies include playing basketball and some video games.
-🧑‍💻 My expertise lies in Java, Python, and web development in general.
-🔍 You'll find projects that reflect my journey to grow as a software developer.
-🛠️ Let's learn, code, and grow together
+    🌟 I'm a Systems Engineering student at Universidad Industrial de Santander, with a strong focus on software development.
+</p>
+
+<p align="center">
+    🏀 My hobbies include playing basketball and some video games.
+</p>
+
+<p align="center">
+    🧑‍💻 My expertise lies in Java, Python, and frontend development in general.
+</p>
+
+<p align="center">
+    🔍 You'll find projects that reflect my journey to grow as a software developer.
+</p>
+
+<p align="center">
+    🛠️ Let's learn, code, and grow together!
 </p>
 
 <h2 align="center">🚀 Languages and Stats</h2>
