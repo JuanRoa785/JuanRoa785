@@ -51,7 +51,10 @@
   </tr>
 </table>
 
-## :zap: Recent Activity
+<h2 align="center">:zap: Recent Activity</h2>
+
+<div align="center">
+
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [JuanRoa785/JuanRoa785](https://github.com/JuanRoa785/JuanRoa785)<br>
 2. ⬆️ Pushed undefined commit(s) to [JuanRoa785/JuanRoa785](https://github.com/JuanRoa785/JuanRoa785)<br>
@@ -63,6 +66,7 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, October 15th, 2025, 4:38:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+</div>
 
 ---
 
