@@ -12,22 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4.2.2
-
+      
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 🔧 Post-procesamiento: centrar cada línea de actividad
-      - name: Wrap recent activity lines in <p align="center">
-        run: |
-          sed -i '/<!--RECENT_ACTIVITY:start-->/,/<!--RECENT_ACTIVITY:end-->/{
-            s/^[0-9]\+\.\s\(.*\)$/<p align="center">\1<\/p>/g
-          }' README.md
-
-      # 🔄 Commit y push de los cambios (si los hay)
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet && echo "No changes to commit" || (git commit -m "style: center recent activity lines" && git push)
