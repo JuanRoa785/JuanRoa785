@@ -53,8 +53,6 @@
 
 <h2 align="center">:zap: Recent Activity</h2>
 
-<div align="center">
-
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [JuanRoa785/JuanRoa785](https://github.com/JuanRoa785/JuanRoa785)<br>
 2. ⬆️ Pushed undefined commit(s) to [JuanRoa785/JuanRoa785](https://github.com/JuanRoa785/JuanRoa785)<br>
@@ -63,6 +61,8 @@
 5. ⬆️ Pushed undefined commit(s) to [JuanRoa785/JuanRoa785](https://github.com/JuanRoa785/JuanRoa785)<br>
 <!--RECENT_ACTIVITY:end-->
 
+<div align="center">
+    
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, October 15th, 2025, 4:47:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
