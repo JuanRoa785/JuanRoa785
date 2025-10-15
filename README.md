@@ -24,6 +24,16 @@
     🛠️ Let's learn, code, and grow together!
 </p>
 
+<h2 align="center">🌐 Social Links</h2>
+
+<div align="center">
+    
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
+</div>
+
 <h2 align="center">🚀 Languages and Stats</h2>
 
 <table align="center">
@@ -47,3 +57,7 @@
     <b>"Great things come from hard work and perseverance. No Excuses" - Kobe Bryant</b>
 </p>
 
+[facebook]:  https://www.facebook.com/juandiego.roaporras/
+[linkedin]:  https://www.linkedin.com/in/jdroap/
+[instagram]: https://www.instagram.com/juanroa785/
+[youtube]: https://www.youtube.com/@juanroa36/
