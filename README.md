@@ -54,6 +54,15 @@
 <h2 align="center">:zap: Recent Activity</h2>
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 20 October 2025 - To: 20 October 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:start-->
