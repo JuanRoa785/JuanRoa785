@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.2.2
       
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - uses: gautamkrishnar/recent-activity@master
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           COMMIT_MSG: false
