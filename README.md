@@ -71,24 +71,7 @@ Other               9 mins          -------------------------   00.52 %
 
 <!--END_SECTION:waka-->
 
----
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JuanRoa785/JuanRoa785](https://github.com/JuanRoa785/JuanRoa785)<br>
-2. ⬆️ Pushed undefined commit(s) to [JuanRoa785/curso-flutter-udemy](https://github.com/JuanRoa785/curso-flutter-udemy)<br>
-3. ⬆️ Pushed undefined commit(s) to [JuanRoa785/curso-flutter-udemy](https://github.com/JuanRoa785/curso-flutter-udemy)<br>
-4. ⬆️ Pushed undefined commit(s) to [JuanRoa785/curso-flutter-udemy](https://github.com/JuanRoa785/curso-flutter-udemy)<br>
-5. ⬆️ Pushed undefined commit(s) to [JuanRoa785/JuanRoa785](https://github.com/JuanRoa785/JuanRoa785)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<div align="center">
-    
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 27th, 2025, 12:43:28 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-</div>
-
----
+--- 
 
 <p align="center">
     <b>"Great things come from hard work and perseverance. No Excuses" - Kobe Bryant</b>
