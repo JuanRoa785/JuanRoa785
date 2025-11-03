@@ -56,17 +56,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 October 2025 - To: 26 October 2025
+From: 26 October 2025 - To: 02 November 2025
 
-Total Time: 29 hrs 27 mins
+Total Time: 48 hrs 11 mins
 
-Python              23 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>-----   78.22 %
-SQL                 3 hrs 5 mins    >>>----------------------   10.46 %
-Dart                1 hr 46 mins    >>-----------------------   06.02 %
-Text                23 mins         -------------------------   01.30 %
-Markdown            19 mins         -------------------------   01.07 %
-Git Config          13 mins         -------------------------   00.75 %
-Other               9 mins          -------------------------   00.52 %
+Python       26 hrs 28 mins  >>>>>>>>>>>>>>-----------   54.85 %
+Dart         20 hrs 28 mins  >>>>>>>>>>>--------------   42.41 %
+Bash         26 mins         -------------------------   00.90 %
+Git Config   10 mins         -------------------------   00.36 %
+Markdown     5 mins          -------------------------   00.20 %
+Text         4 mins          -------------------------   00.17 %
+Other        4 mins          -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
