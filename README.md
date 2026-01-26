@@ -56,13 +56,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 January 2026 - To: 18 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 27 hrs 41 mins
+Total Time: 5 hrs 2 mins
 
-Dart     14 hrs 8 mins   >>>>>>>>>>>--------------   43.64 %
-Python   11 hrs 34 mins  >>>>>>>>>----------------   35.73 %
-Other    4 hrs 42 mins   >>>>---------------------   14.52 %
+Dart                       2 hrs 41 mins   >>>>>>>>>>>--------------   43.64 %
+Other                      1 hr 7 mins     >>>>>--------------------   18.15 %
 ```
 
 <!--END_SECTION:waka-->
