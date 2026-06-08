@@ -56,18 +56,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 May 2026 - To: 31 May 2026
+From: 31 May 2026 - To: 07 June 2026
 
-Total Time: 29 hrs 7 mins
+Total Time: 12 hrs 14 mins
 
-Dart              17 hrs 58 mins        >>>>>>>>>>>>>>>----------   61.70 %
-Java              8 hrs 9 mins          >>>>>>>------------------   27.99 %
-Properties        58 mins               >------------------------   03.33 %
-Java Properties   49 mins               >------------------------   02.80 %
-XML               4 mins                -------------------------   00.24 %
-Markdown          3 mins                -------------------------   00.20 %
-textmate          0 secs                -------------------------   00.03 %
-Other             0 secs                -------------------------   00.03 %
+Java              5 hrs 15 mins         >>>>>>>>>>>--------------   42.96 %
+Dart              4 hrs 58 mins         >>>>>>>>>>---------------   40.72 %
+XML               42 mins               >------------------------   05.79 %
+Markdown          29 mins               >------------------------   03.98 %
+Properties        17 mins               >------------------------   02.36 %
+Java Properties   3 mins                -------------------------   00.54 %
+textmate          0 secs                -------------------------   00.05 %
+SQL               0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
