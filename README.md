@@ -56,16 +56,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 August 2026 - To: 30 August 2026
+From: 30 August 2026 - To: 06 September 2026
 
-Total Time: 30 hrs 22 mins
+Total Time: 26 hrs 19 mins
 
-Dart              19 hrs 9 mins         >>>>>>>>>>>>>>>>---------   62.45 %
-Java              5 hrs 46 mins         >>>>>--------------------   18.85 %
-XML               1 hr 7 mins           >------------------------   03.66 %
-Bash              21 mins               -------------------------   01.18 %
-Python            21 mins               -------------------------   01.16 %
-Other             18 mins               -------------------------   01.02 %
+Java             15 hrs 1 min          >>>>>>>>>>>>>>-----------   56.92 %
+Dart             8 hrs 32 mins         >>>>>>>>-----------------   32.32 %
+XML              32 mins               >------------------------   02.04 %
+Markdown         16 mins               -------------------------   01.05 %
+textmate         5 mins                -------------------------   00.35 %
+Other            5 mins                -------------------------   00.34 %
 ```
 
 <!--END_SECTION:waka-->
